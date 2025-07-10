@@ -1,5 +1,5 @@
 """"
-利用request爬取彼岸图网的图片
+*利用request爬取彼岸图网的图片
 """
 import requests
 import parsel
