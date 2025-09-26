@@ -1,6 +1,10 @@
-""""
-*利用request爬取彼岸图网的图片
-"""
+# -*- coding: utf-8 -*-  python 3.12
+# @Time    : 2025/9/23
+# @Desc    : 使用request爬取彼岸图网的图片
+# @Author  : laity
+# @Contact : 微信公众号：laity的渗透测试之路
+
+
 import requests
 import parsel
 import os
